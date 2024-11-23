@@ -1,0 +1,23 @@
+Privacy Policy for Minecraft Server Backup Script
+
+Last updated: November 23, 2024
+
+1. **Data We Collect**
+   - The script interacts with Google Drive and requires access to your Google account to back up your Minecraft worlds. The data we collect is strictly limited to the world directories in your Minecraft Bedrock server folder. No personal data or sensitive information is collected beyond what is necessary for backing up your world data to Google Drive.
+   
+2. **How We Use Your Data**
+   - We use Google Drive to back up your Minecraft worlds to your Google Drive account. The backups are stored in a folder that you specify. We do not access or use your Google Drive for any other purposes beyond this.
+   
+3. **Data Security**
+   - We use standard security protocols provided by Google to ensure that your data is secure during the backup process. We do not store any data on our servers, and we do not share your data with third parties.
+   
+4. **Third-Party Services**
+   - The script uses **rclone** to interface with Google Drive. Rclone is a trusted open-source tool used for managing cloud storage, and it operates within the bounds of Google's OAuth 2.0 security standards.
+   
+5. **Your Rights**
+   - You have the right to revoke access to your Google account at any time via Google Account settings. Once access is revoked, the script will no longer be able to perform backups.
+   
+6. **Contact Information**
+   - If you have any questions or concerns about our privacy practices, please contact us at: [Your Email Address].
+
+This privacy policy is subject to change. Any updates will be posted on this page.
