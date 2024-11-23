@@ -1,0 +1,32 @@
+Terms of Service for Minecraft Server Backup Script
+
+Last updated: November 23, 2024
+
+These Terms of Service govern the use of the Minecraft Server Backup Script ("the Script") provided by [Your Application Name]. By using the Script, you agree to these terms. If you do not agree, do not use the Script.
+
+1. **Use of the Script**
+   - The Script allows you to back up your Minecraft Bedrock world data to Google Drive. You are responsible for ensuring that you have the necessary permissions to access and back up the data in your Google account.
+   
+2. **Account Access**
+   - The Script requires access to your Google Drive account to perform backups. By using the Script, you grant the Script access to your Google Drive account. You may revoke this access at any time through your Google account settings.
+   
+3. **Data Storage**
+   - The Script stores backups of your Minecraft world data on Google Drive. The backups are stored in a folder you specify. We do not store any data on our own servers and will never share your data with third parties.
+   
+4. **Usage Restrictions**
+   - You may not use the Script for any illegal, harmful, or unauthorized purposes. You are solely responsible for the content of your Minecraft world backups.
+   
+5. **No Warranty**
+   - The Script is provided "as is," without any warranty of any kind. We do not guarantee the functionality, reliability, or availability of the Script, and we are not responsible for any loss of data or other issues that may occur.
+   
+6. **Changes to the Script**
+   - We reserve the right to modify or discontinue the Script at any time, without notice. If significant changes are made, we will update the Terms of Service accordingly.
+   
+7. **Limitation of Liability**
+   - To the fullest extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from the use of the Script, including but not limited to data loss or disruption of service.
+   
+8. **Governing Law**
+   - These Terms of Service are governed by the laws of [Your Country/State]. Any disputes shall be resolved in the appropriate courts of [Your Country/State].
+
+9. **Contact Information**
+   - If you have any questions or concerns about these Terms of Service, please contact us at: [Your Email Address].
